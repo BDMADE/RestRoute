@@ -1,0 +1,2 @@
+1. rails g controller post
+2.rails g model  Post  title:string description:text
